@@ -1,5 +1,5 @@
 # PyViz-Homework
-1. Performed the rental_analysis following the starter code
+1. Performed the rental_analysis homework following the starter code
 2. Completed all graphs except those of the optional challenge:
     * Create a bar chart row facet to plot the average house values for all Toronto neighbourhoods per year 
     * Create a sunburst chart to conduct a cost analysis of the most expensive neighbourhoods in Toronto per year.
